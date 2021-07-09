@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "an app used to learn how to create node.js files",
 	"keywords": ["freecodecamp", "node.js", "npm", "test", "beginner", "course", "learn"],
+	"license": "MIT", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
